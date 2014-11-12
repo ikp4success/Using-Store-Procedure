@@ -1,7 +1,6 @@
 /**
 Class: CIS430/CIS530 - Lab Assignment 5
 Name: Immanuel I George
-CSU-ID: 2548936
 Object: Implementing and Creating Triggers,Store Procedure for Delete Insert and Update
 **/
 
